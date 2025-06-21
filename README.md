@@ -100,7 +100,6 @@ Confusion Matrix:
 ![download](https://github.com/user-attachments/assets/c2f75f3c-6a99-4221-89e9-5dea5ccb0ee7)
 ![download](https://github.com/user-attachments/assets/651f496f-d353-4f5c-a6ff-b1ab04312efa)
 
-Classification Report
 Predictions on a sample water quality input
 ![image](https://github.com/user-attachments/assets/896565e0-04a0-41c8-b215-37ac036b686d)
 
